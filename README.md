@@ -12,9 +12,9 @@ Build and Publish a Python Library for Data Science
 
 | Member      | Role                                | Main Responsibilities                                                                                                                                         |
 | ----------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Jave**    | **Leader / Project Coordinator**    | Leads project planning and coordination, manages GitHub repository and branches, compiles weekly reports, and ensures all deliverables are submitted on time. |
-| **Rynzo**   | **Lead Developer**                  | Develops main modules and core OOP classes, implements key features (`inspect()`, `diagnose()`, `treat()`), and maintains clean, efficient code.              |
-| **Sodais**  | **Assistant Developer / Debugger**  | Supports coding tasks, focuses on method testing and debugging, and ensures that modules work together without errors.                                        |
-| **Harold**  | **Documentation & Testing Officer** | Writes documentation (`README.md`, docstrings), conducts testing of features, and assists in creating the demo notebook.                                      |
-| **Reymart** | **Design & Research Analyst**       | Creates UML/class diagrams, researches data cleaning techniques, and helps design the logic for inspections and reports.                                      |
+| **Odchigue, Jave Melchor P.**    | **Leader / Project Coordinator**    | Leads project planning and coordination, manages GitHub repository and branches, compiles weekly reports, and ensures all deliverables are submitted on time. |
+| **Ruiz, Rynzo Rapheal R.**   | **Lead Developer**                  | Develops main modules and core OOP classes, implements key features (`inspect()`, `diagnose()`, `treat()`), and maintains clean, efficient code.              |
+| **Angni, Sodais M.**  | **Assistant Developer / Debugger**  | Supports coding tasks, focuses on method testing and debugging, and ensures that modules work together without errors.                                        |
+| **Magtrayo, Harold Hope**  | **Documentation & Testing Officer** | Writes documentation (`README.md`, docstrings), conducts testing of features, and assists in creating the demo notebook.                                      |
+| **Padillo, Reymart** | **Design & Research Analyst**       | Creates UML/class diagrams, researches data cleaning techniques, and helps design the logic for inspections and reports.                                      |
 
