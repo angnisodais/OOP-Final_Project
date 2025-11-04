@@ -66,30 +66,31 @@ Main Classes
 │ - _issues                   │
 ├─────────────────────────────┤
 │ + __init__(dataframe)       │
-│ + inspect()                 │  
+│ + inspect()                 │
 │ + detect_missing()          │
 │ + detect_duplicates()       │
 │ + detect_outliers()         │
 │ + get_summary()             │
 └──────────────┬──────────────┘
                │
-          inherits
+         Inheritance
                │
                ▼
 ┌─────────────────────────────┐
 │          DataDoctor         │
 ├─────────────────────────────┤
 │ - _fix_log                  │
+│ - report_generator          │  ← Composition (has-a ReportGenerator)
 ├─────────────────────────────┤
-│ + diagnose()                │  
-│ + treat()                   │  
+│ + diagnose()                │
+│ + treat()                   │
 │ + fix_missing()             │
 │ + fix_duplicates()          │
 │ + fix_outliers()            │
 │ + get_fix_log()             │
 └──────────────┬──────────────┘
                │
-         composition
+         Composition
                │
                ▼
 ┌─────────────────────────────┐
@@ -98,10 +99,11 @@ Main Classes
 │ - _report_data              │
 │ - _score                    │
 ├─────────────────────────────┤
-│ + report()                  │  
-│ + health_score()            │  
+│ + report()                  │
+│ + health_score()            │
 │ + export_report(file_name)  │
 └─────────────────────────────┘
+
 
 
 
