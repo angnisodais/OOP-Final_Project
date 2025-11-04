@@ -57,8 +57,7 @@ Main Classes
 - Focus: Summarizes actions and evaluates data quality.
 
 # UML Design
-
-
+```
 ┌─────────────────────────────┐
 │        DataInspector        │
 ├─────────────────────────────┤
@@ -73,14 +72,13 @@ Main Classes
 │ + get_summary()             │
 └──────────────┬──────────────┘
                │
-         Inheritance
+           Inheritance
                │
                ▼
 ┌─────────────────────────────┐
 │          DataDoctor         │
 ├─────────────────────────────┤
 │ - _fix_log                  │
-│ - report_generator          │  ← Composition (has-a ReportGenerator)
 ├─────────────────────────────┤
 │ + diagnose()                │
 │ + treat()                   │
@@ -90,7 +88,7 @@ Main Classes
 │ + get_fix_log()             │
 └──────────────┬──────────────┘
                │
-         Composition
+          Composition
                │
                ▼
 ┌─────────────────────────────┐
@@ -103,9 +101,7 @@ Main Classes
 │ + health_score()            │
 │ + export_report(file_name)  │
 └─────────────────────────────┘
-
-
-
+```
 
 
 
