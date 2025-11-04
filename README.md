@@ -63,7 +63,7 @@ Main Classes
 │ - _data                     │
 │ - _issues                   │
 ├─────────────────────────────┤
-│ + __init__(file_path)       │
+│ + __init__(dataframe)       │
 │ + inspect()                 │
 │ + detect_missing()          │
 │ + detect_duplicates()       │
@@ -96,10 +96,11 @@ Main Classes
 │ - _report_data              │
 │ - _score                    │
 ├─────────────────────────────┤
-│ + generate_summary()        │
+│ + report()                  │
 │ + health_score()            │
 │ + export_report(file_name)  │
 └─────────────────────────────┘
+
 
 
 # OOP Concept Integration Summary
