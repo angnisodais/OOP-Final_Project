@@ -4,7 +4,7 @@ Build and Publish a Python Library for Data Science
 🎯 Objective Create and publish a Python library (package) that applies Object-Oriented Programming (OOP) principles to a data science application. You will collaborate as a group, manage your project on GitHub, and publish your package to PyPI, complete with documentation.
 
 # Folders
-- Fanal PRoject/ — chosen library implementation
+- Final Project/ — chosen library implementation
 - Report/ — weekly narrative reports and peer evaluations
 - Documentation / — UML, screenshots, and design materials
 
