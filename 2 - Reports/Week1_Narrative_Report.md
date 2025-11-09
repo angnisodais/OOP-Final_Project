@@ -1,6 +1,6 @@
 # Narrative Report — Week 1
 
-**Date Covered:** October 28 – November 3, 2025  
+**Date Covered:** November 3 – November 10, 2025  
 **Course:** Object-Oriented Programming (OOP)  
 **Project Title:** DataMedic: A Python Library for Data Cleaning
 
